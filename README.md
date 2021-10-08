@@ -6,7 +6,7 @@ Repositório criado para demonstrar o processo do Bootcamp
   * [Minha IDE](https://code.visualstudio.com)
   * [Meu LinkedIn](https://www.linkedin.com/in/igordamicosotolani/)
   * [Canal de duvida Discord](https://discord.gg/zwsUw3Jb)
-  * [Meu email](contatodmsotolani@gmail.com)
+  * [Meu email](email:contatodmsotolani@gmail.com)
 
 ## Etapas do Bootcamp
 
