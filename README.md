@@ -15,7 +15,7 @@ Repositório criado para demonstrar o processo do Bootcamp.
   * ### Desafios iniciais em JavaScript
    1. [Contagem de mandioca](https://github.com/igordamicost/Eduzz-Bootcamp---DIO/blob/main/Exercicios%20Java%20Script/Desafios%20Iniciais%20em%20JavaScript/Contagem%20Mandioca.js)
    2. [Distancia](https://github.com/igordamicost/Eduzz-Bootcamp---DIO/blob/main/Exercicios%20Java%20Script/Desafios%20Iniciais%20em%20JavaScript/Distancia.js)
-   3. [Dividindo X / y ](https://github.com/igordamicost/Eduzz-Bootcamp---DIO/blob/main/Exercicios%20Java%20Script/Desafios%20Iniciais%20em%20JavaScript/Dividindo%20X%20por%20Y.js)
+   3. [Dividindo X / Y ](https://github.com/igordamicost/Eduzz-Bootcamp---DIO/blob/main/Exercicios%20Java%20Script/Desafios%20Iniciais%20em%20JavaScript/Dividindo%20X%20por%20Y.js)
 
   * ### Projetos
    1. [Genius Game](https://github.com/igordamicost/Eduzz-Bootcamp---DIO/tree/main/Exercicios%20Java%20Script/Jogo%20Genius)
