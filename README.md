@@ -12,6 +12,10 @@ Repositório criado para demonstrar o processo do Bootcamp.
   * [Meu email](Mailto:contatodmsotolani@gmail.com)
 
 ## Etapas do Bootcamp
-  * #### Neste campo será anexada todas as atividades do Bootcamp EDUZZ/DIO. Qualquer duvida ou sugestão me manda no e-mail. Espero poder ajudar da melhor forma possivel!
+  * ### Desafios iniciais em JavaScript
+         1. [Contagem de mandioca](https://github.com/igordamicost/Eduzz-Bootcamp---DIO/blob/main/Exercicios%20Java%20Script/Desafios%20Iniciais%20em%20JavaScript/Contagem%20Mandioca.js)
+         2. [Distancia](https://github.com/igordamicost/Eduzz-Bootcamp---DIO/blob/main/Exercicios%20Java%20Script/Desafios%20Iniciais%20em%20JavaScript/Distancia.js)
+         3. [Dividindo X / y ](https://github.com/igordamicost/Eduzz-Bootcamp---DIO/blob/main/Exercicios%20Java%20Script/Desafios%20Iniciais%20em%20JavaScript/Dividindo%20X%20por%20Y.js)
+  * 
 ## [Meu Site](http://dev-igordamicosotolani.online)
 
